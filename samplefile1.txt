@@ -1,3 +1,5 @@
 Testing the sample file 1
 
 Commit count 2
+
+Revert on file 2
