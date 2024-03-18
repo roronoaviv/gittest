@@ -3,3 +3,5 @@ Testing the sample file
 Commit count 1
 
 Revert testing 1
+
+This is comparsion chapter
