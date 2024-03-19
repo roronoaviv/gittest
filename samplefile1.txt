@@ -3,3 +3,6 @@ Testing the sample file 1
 Commit count 2
 
 This is to compare the files
+
+ally, some services such as the storage-provisioner, may not yet be in a Running state. This is a normal condition during cluster bring-up, and will resolve itself momentarily. For additional insight into your cluster state
+
