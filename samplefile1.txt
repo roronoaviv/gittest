@@ -1,1 +1,3 @@
 Testing the sample file 1
+
+ally, some services such as the storage-provisioner, may not yet be in a Running state. This is a normal condition during cluster bring-up, and will resolve itself momentarily. For additional insight into your cluster state
